@@ -1,6 +1,7 @@
 # NFT Collection React App
 
-This is a React-based web application for displaying and managing NFT collections.
+This is a React-based web application for displaying and managing NFT collections on the Polygon network. The app leverages Polygon's fast and low-cost transactions to provide a seamless experience for NFT management and viewing.
+
 
 ## Features
 
